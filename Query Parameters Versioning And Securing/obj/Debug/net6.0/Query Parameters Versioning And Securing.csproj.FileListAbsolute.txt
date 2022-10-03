@@ -1,0 +1,33 @@
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\bin\Debug\net6.0\appsettings.Development.json
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\bin\Debug\net6.0\appsettings.json
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\bin\Debug\net6.0\Query Parameters Versioning And Securing.exe
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\bin\Debug\net6.0\Query Parameters Versioning And Securing.deps.json
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\bin\Debug\net6.0\Query Parameters Versioning And Securing.runtimeconfig.json
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\bin\Debug\net6.0\Query Parameters Versioning And Securing.dll
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\bin\Debug\net6.0\Query Parameters Versioning And Securing.pdb
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\obj\Debug\net6.0\Query Parameters Versioning And Securing.csproj.AssemblyReference.cache
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\obj\Debug\net6.0\Query Parameters Versioning And Securing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\obj\Debug\net6.0\Query Parameters Versioning And Securing.AssemblyInfoInputs.cache
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\obj\Debug\net6.0\Query Parameters Versioning And Securing.AssemblyInfo.cs
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\obj\Debug\net6.0\Query Parameters Versioning And Securing.csproj.CoreCompileInputs.cache
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\obj\Debug\net6.0\Query Parameters Versioning And Securing.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\obj\Debug\net6.0\Query Parameters Versioning And Securing.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\obj\Debug\net6.0\scopedcss\bundle\Query Parameters Versioning And Securing.styles.css
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\obj\Debug\net6.0\Query Parameters Versioning And Securing.csproj.CopyComplete
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\obj\Debug\net6.0\Query Parameters Versioning And Securing.dll
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\obj\Debug\net6.0\refint\Query Parameters Versioning And Securing.dll
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\obj\Debug\net6.0\Query Parameters Versioning And Securing.pdb
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\obj\Debug\net6.0\Query Parameters Versioning And Securing.genruntimeconfig.cache
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\obj\Debug\net6.0\ref\Query Parameters Versioning And Securing.dll
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Projects\_BACKEND\Query Parameters Versioning And Securing\Query Parameters Versioning And Securing\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
